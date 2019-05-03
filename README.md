@@ -5,9 +5,11 @@ Its a small div bar rotation with ```transform: rotate(XXdeg) ```
 
 ```
 function csspie($data, $diameter, $radius = "20px", $calculatepercentage = false; $res=2, $colors){}
-
-Retuns: array( $htmlCSSpie, $legend );
 ```
+Just include the file or copy the function.
+
+Retuns: ``` array( $htmlCSSpie, $legend ); ``` 
+
 For a $data array like:
 ```
   [data] => Array
